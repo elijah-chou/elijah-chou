@@ -5,6 +5,7 @@
 - 📫 How to reach me: personal email is ecool7079@gmail.com; Emory email is elijah.chou@emory.edu; professional email is elijah.chou0321@gmail.com. You can also reach out to me via my phone number +1 (518) 903-9531, but I would highly appreciate it if you reached out to me via email beforehand! :)
 
 Portfolio Website: https://elijah-chou.github.io/MyPage/
+Honors Thesis: https://etd.library.emory.edu/concern/etds/b8515p78f?locale=en
 <!---
 elijah-chou/elijah-chou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
