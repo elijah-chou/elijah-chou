@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any kind of project that I will either be able to contribute a lot or learn a good deal of new technologies.
 - 📫 How to reach me: personal email is ecool7079@gmail.com; alumni Emory email is elijah.chou@alumni.emory.edu; professional email is elijah.chou0321@gmail.com.
 
-Portfolio Website: https://elijah-chou.github.io/MyPage/
+Portfolio Website: https://ambitious-ground-09fc3450f.4.azurestaticapps.net
 
 Honors Thesis: https://etd.library.emory.edu/concern/etds/b8515p78f?locale=en
 
