@@ -11,7 +11,7 @@ Portfolio Website (GitHub Pages): https://elijah-chou.github.io/MyPage/
 
 Honors Thesis: https://etd.library.emory.edu/concern/etds/b8515p78f?locale=en
 
-Published Paper: https://www.scitepress.org/PublicationsDetail.aspx?ID=RN+84ZeMvAY=&t=1
+Published Paper: https://link.springer.com/chapter/10.1007/978-3-032-21997-8_20 AND https://www.scitepress.org/PublicationsDetail.aspx?ID=RN+84ZeMvAY=&t=1
 <!---
 elijah-chou/elijah-chou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
